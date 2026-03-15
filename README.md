@@ -7,6 +7,7 @@ Current focus:
 - Haskell HTTP/1.1 server for tail-latency analysis
 - satcom / ground-segment toy system design in Rust
 - collaborative full-stack development in a university lab-delivery project
+- collaborative open source multimeter hardware design and software
 
 I’m especially interested in aerospace, space systems, and software that needs to be correct, maintainable, and well-documented.
 
