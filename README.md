@@ -5,9 +5,10 @@ MSci Computer Science student at the University of Exeter, interested in reliabl
 
 Current focus:
 - Haskell HTTP/1.1 server for tail-latency analysis
-- satcom / ground-segment toy system design in Rust
 - collaborative full-stack development in a university lab-delivery project
+- An Experimental Study of Differential Evolution and Island-Model Differential Evolution on Continuous Optimisation Benchmarks
 - collaborative open source multimeter hardware design and software
+- satcom / ground-segment toy system design in Rust
 
 I’m especially interested in aerospace, space systems, and software that needs to be correct, maintainable, and well-documented.
 
