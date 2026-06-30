@@ -1,14 +1,17 @@
 # About Me:
-## Henry Grantham-Smith
+## Henry Grantham-Smith MSci MBCS
 
-MSci Computer Science student at the University of Exeter, interested in reliable software, backend systems, networking, and performance investigation.
+https://henrygg-s.github.io/
+
+Software engineer interested in reliable, maintainable systems: embedded software, backend tooling, performance investigation, and space-adjacent engineering practice.
 
 Current focus:
-- Haskell HTTP/1.1 server for tail-latency analysis
-- collaborative full-stack development in a university lab-delivery project
-- An Experimental Study of Differential Evolution and Island-Model Differential Evolution on Continuous Optimisation Benchmarks
-- collaborative open source multimeter hardware design and software
-- satcom / ground-segment toy system design in Rust
+- Embedded and systems software
+- Maintainable application development
+- Performance and reliability
+- collaborative open source multimeter hardware design and software: https://github.com/Parkin-Grantham-Smith/Opensource-Multimeter
+- PocketSat embedded avionics style STM32 project: https://github.com/HenryGG-S/pocketsat
+- tabletop adcs reaction wheel project: https://github.com/HenryGG-S/tabletop-adcs-demo
 
 I’m especially interested in aerospace, space systems, and software that needs to be correct, maintainable, and well-documented.
 
